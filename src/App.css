@@ -1,0 +1,58 @@
+.App {
+  background-color: aqua;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+
+  
+
+}
+.code {
+  background-color: azure;
+  border: 2px solid aliceblue;
+  border-radius: 9px;
+  margin: 25px ;
+  padding: 25px;
+}
+h6 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  text-align: center;
+}
+
+.code:hover {
+  margin-top: 0.5px;
+  cursor: pointer;
+}
+button{
+  height: 40px;
+  width: 200px;
+  background-color: azure;
+  border-radius: 60px;
+  margin: 5px;
+  background-color: rgb(25, 55, 206);
+  text-align: center;
+  }
+
+
+.code1{
+  opacity: 0.5;
+}
+
+.rs{
+  font-size: 50px;
+}
+.month{
+  font-size: 10px;
+} 
+
+
+
+
+
+
